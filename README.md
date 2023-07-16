@@ -8,7 +8,7 @@
 
 ### :raising_hand_man: About Me :
 
-- :computer: Graduate of B.Sc. in Computer Science, looking for Full Stack Developer position.
+- 🎓 Graduate of B.Sc. in Computer Science, looking for Full Stack Developer position.
 
 - :seedling: Self-motivated learner with an insatiable desire to grow and excel.
 
@@ -19,23 +19,57 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <a href="https://react.dev" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://mui.com" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://vuejs.org" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
+    </a>
+  <a href="https://vuetifyjs.com" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://nodejs.org" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.javascript.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.w3schools.com/css" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.python.org/" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.java.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.w3schools.com/c" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://firebase.google.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.mysql.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://git-scm.com" target="_blank">    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </a>
 </div>
 
 
